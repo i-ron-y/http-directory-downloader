@@ -19,7 +19,7 @@ Go to the directory where `http-directory-downloader.py` is located.
 Run:
 
 ````
-python eslint-starter-generator.py url [destFolder]
+python http-directory-downloader.py url [destFolder]
 ````
 
 **WARNING**: If you already have files of the same name in the output folder or the subsequent subfolders, they WILL be overwritten.
